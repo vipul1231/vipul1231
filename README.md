@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipul1231
-- 👀 I’m interested in archiecture, software designs, problem solving, algorithm and data structures
+- 👀 I’m interested in architecture, software designs, problem solving, algorithm and data structures
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on any open source technology contribution.
 - 📫 How to reach me at https://www.linkedin.com/in/vipul-tiwari/
